@@ -1,0 +1,80 @@
+Nama:Jepriyanto
+NPM:19312175
+Kode Soal:A
+
+1. Sistem apa yang anda kembangkan?
+Jawab: 
+1. Pemesanan Makanan Online: Siswa dan guru dapat memesan makanan melalui aplikasi atau situs web.
+2. Menu Kantin: Daftar menu kantin akan tersedia secara online dengan gambar dan deskripsi.
+3. Pembayaran Elektronik: Integrasi dengan metode pembayaran elektronik seperti kartu kredit, mobile wallet, atau transfer bank.
+4. Notifikasi: Pengguna akan menerima notifikasi saat pesanan mereka siap diambil.
+5. Manajemen Akun: Kemampuan untuk mengelola profil dan melihat riwayat transaksi.
+2. Permasalahan apa yang terjadi pada studi kasus anda?
+Jawab:
+Studi kasus yang telah disampaikan sebelumnya menggambarkan permasalahan di SMA XYZ terkait dengan antrian panjang di kantin dan penggunaan pembayaran tunai. Beberapa permasalahan yang mungkin dihadapi dalam konteks ini adalah:
+
+1. Antrian Panjang di Kantin: Salah satu permasalahan utama adalah adanya antrian panjang di kantin selama jam istirahat. Hal ini mengakibatkan siswa kehabisan waktu untuk makan dan melanjutkan aktivitas belajar di kelas. Antrian yang panjang dapat mengganggu efisiensi dan memberikan pengalaman yang tidak nyaman bagi siswa.
+
+2. Pembayaran Tunai: Penggunaan pembayaran tunai di kantin dapat menjadi masalah karena memerlukan waktu yang lebih lama untuk transaksi, terutama jika uang pas harus dicari. Selain itu, pembayaran tunai juga bisa berpotensi meningkatkan risiko kehilangan uang atau kebingungan dalam hal perubahan uang.
+
+3. Kehilangan Pendapatan Potensial: Jika siswa tidak memiliki cukup waktu untuk makan karena antrian panjang, ini juga dapat berdampak pada pendapatan kantin. Kehilangan waktu makan siswa juga dapat mengurangi pendapatan dari penjualan makanan.
+
+4. Manajemen Persediaan: Dalam kasus kantin sekolah, manajemen persediaan makanan dan minuman juga bisa menjadi permasalahan. Stok makanan yang tidak efisien dapat mengakibatkan pemborosan atau ketidakcukupan makanan.
+
+5. Kepuasan Pelanggan: Siswa dan guru mungkin tidak puas dengan pengalaman bertransaksi di kantin karena antrian panjang dan pembayaran tunai. Ini dapat mempengaruhi citra sekolah dan kepuasan pelanggan.
+
+6. Ketidakefisienan Operasional: Proses manual dalam kantin, seperti pencatatan pesanan dan pembayaran, dapat menyebabkan ketidakcukupan efisiensi operasional. Ini dapat mengakibatkan peningkatan biaya operasional dan potensi kesalahan manusia.
+
+7. Ketidakamanan Finansial: Penggunaan pembayaran tunai juga dapat meningkatkan risiko pencurian atau ketidakamanan finansial jika tidak ada kontrol yang memadai.
+
+Untuk mengatasi permasalahan-permasalahan ini, proyek yang telah diusulkan sebelumnya bertujuan untuk memungkinkan siswa dan guru memesan makanan secara online dan melakukan pembayaran elektronik. Dengan demikian, diharapkan dapat meningkatkan efisiensi, mengurangi antrian, dan memberikan pengalaman bertransaksi yang lebih baik di kantin sekolah.
+
+3. Apa solusi yang dapat anda berikan pada permasalahan tersebut?
+Jawab:
+Untuk mengatasi permasalahan antrian panjang di kantin dan penggunaan pembayaran tunai di SMA XYZ, berikut adalah solusi-solusi yang dapat dipertimbangkan:
+
+1. Sistem Pemesanan dan Pembayaran Online:
+   - Mengembangkan sistem pemesanan makanan secara online yang memungkinkan siswa dan guru untuk memesan makanan sebelumnya melalui aplikasi atau situs web.
+   - Memungkinkan pembayaran elektronik online, seperti kartu kredit atau dompet digital, untuk memesan makanan.
+   - Menyediakan berbagai metode pembayaran yang mudah digunakan dan aman.
+
+2. Aplikasi Mobile Kantin:
+   - Mengembangkan aplikasi mobile khusus untuk kantin sekolah yang memungkinkan siswa dan guru memesan makanan secara langsung dari ponsel mereka.
+   - Aplikasi ini dapat menampilkan menu, harga, dan waktu pengiriman yang jelas.
+
+3. Pengambilan Pesanan Cepat (Quick Order):
+   - Menyediakan area khusus untuk pengambilan pesanan cepat bagi siswa yang telah memesan makanan secara online.
+   - Proses pengambilan pesanan cepat ini harus lebih efisien daripada antrian konvensional.
+
+4. Promosi Pemesanan Online:
+   - Mengkampanyekan pemesanan makanan online melalui promosi di sekolah, seperti poster, pengumuman di kelas, atau promosi melalui media sosial sekolah.
+
+5. Pendidikan Pengguna:
+   - Memberikan pelatihan dan informasi kepada siswa, guru, dan staf kantin tentang cara menggunakan sistem pemesanan online dan pembayaran elektronik.
+
+6. Manajemen Persediaan Terpadu:
+   - Mengintegrasikan sistem pemesanan online dengan manajemen persediaan kantin untuk memastikan bahwa stok makanan yang tersedia selalu akurat.
+   - Ini dapat membantu menghindari kekurangan atau kelebihan stok.
+
+7. Ketersediaan Berbagai Pilihan Pembayaran:
+   - Selain pembayaran elektronik, juga menyediakan opsi pembayaran tunai untuk mereka yang belum beralih ke pembayaran elektronik.
+
+8. Analisis Data dan Umpan Balik Pelanggan:
+   - Mengumpulkan data tentang pola pemesanan dan umpan balik pelanggan untuk terus meningkatkan layanan dan menu yang ditawarkan.
+
+9. Pengembangan Perangkat Khusus:
+   - Jika dana tersedia, pertimbangkan untuk mengembangkan mesin pemesanan dan pembayaran otomatis di lokasi kantin.
+
+10. Kerjasama dengan Pihak Eksternal:
+    - Bekerjasama dengan penyedia layanan pembayaran elektronik dan perusahaan teknologi yang berpengalaman dalam pengembangan solusi pemesanan online.
+
+Solusi-solusi ini bertujuan untuk meningkatkan efisiensi, mengurangi antrian, dan memberikan pengalaman bertransaksi yang lebih baik di kantin sekolah. Penggunaan teknologi dan pemesanan online dapat membantu mengatasi banyak dari permasalahan yang telah disebutkan sebelumnya.
+
+4. Apa yang menjadi nilai lebih solusi yang anda hadirkan dari sistem/solusi yang sudah ada?
+Jawab:Pengurangan Antrian Panjang, Pembayaran Elektronik, Kenyamanan dan Efisiensi, Manajemen Persediaan yang Lebih Baik, Pendapatan yang Lebih Baik,
+Pengalaman Pelanggan yang Lebih Baik, Penggunaan Teknologi Terkini, Penghematan Waktu, dan Fleksibilitas dan Aksesibilitas
+
+5. Apa saja kendala dan resiko yang mungkin akan anda hadapi selama pengembangan sistem?
+Jawab: Kendala Anggaran, Keterampilan Teknis, Kerumitan Teknis, Kepatuhan Regulasi, Penerimaan Pengguna, Ketergantungan Teknologi Eksterna
+Keamanan Data, Kendala Waktu, Perubahan Persyaratan, Kualitas dan Kinerja, Penerimaan Sekolah, Kegagalan Teknologi
+dan  Perubahan Organisasi
